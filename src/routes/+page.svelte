@@ -10,7 +10,7 @@
 </script>
 
 <h1 class="sr-only">Web 3.0</h1>
-<main class="w-screen min-h-screen grid grid-cols-[minmax(0,1100px)] justify-center">
+<main class="w-screen bg-white-300 min-h-screen grid grid-cols-[minmax(0,1100px)] justify-center">
 	<div class="w-full grid grid-rows-[max-content,max-content] pt-[28px] pb-[75px] md:pt-[90px] md:pb-[130px] px-4">
 		<nav class="grid gap-[40px] grid-cols-[max-content,1fr] md:grid-cols-[max-content,1fr,repeat(3,max-content)] mb-[55px]">
 			<img src="W..svg" alt="W." />
