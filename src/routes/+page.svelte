@@ -15,11 +15,12 @@
 
 <main class="w-screen bg-white-300 min-h-screen grid grid-cols-[minmax(0,1110px)] justify-center px-4">
 	<div class="w-full grid grid-rows-[max-content,max-content] pt-[28px] pb-[75px] md:pt-[90px] md:pb-[130px]">
-		<nav class="grid gap-[40px] grid-cols-[max-content,1fr] md:grid-cols-[max-content,1fr,repeat(3,max-content)] mb-[55px]">
+		<nav class="grid gap-[40px] grid-cols-[max-content,1fr] md:grid-cols-[max-content,1fr,repeat(4,max-content)] mb-[55px]">
 			<img src="W..svg" alt="W." />
 
 			<a class="justify-self-end" href="/home">Home</a>
 			<a href="/news">New</a>
+			<a href="/popular">Popular</a>
 			<a href="/trending">Trending</a>
 			<a href="/categores">Catgories</a>
 
