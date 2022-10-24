@@ -42,7 +42,7 @@
 						its promise?
 					</p>
 
-					<button class="px-8 py-[12px] bg-red text-white-300 font-inter font-bold text-[14px] leading-[24px] tracking-[4px]">
+					<button class="px-8 uppercase py-[12px] bg-red text-white-300 font-inter font-bold text-[14px] leading-[24px] tracking-[4.34px]">
 						Read more
 					</button>
 				</div>
@@ -81,16 +81,16 @@
 					num="02"
 					title="Top 10 Laptops of 2022"
 					description="Our best picks for various needs and budgets."
-					src="/bottom-card-2.png"
+					src="/bottom-card-3.png"
 					alt=""
 					href="/"
 				/>
 
 				<BottomCards
 					num="03"
-					title="Reviving Retro PCs"
+					title="The Growth of Gaming"
 					description="How the pandemic has sparked fresh opportunities."
-					src="/bottom-card-3.png"
+					src="/bottom-card-2.png"
 					alt=""
 					href="/"
 				/>
