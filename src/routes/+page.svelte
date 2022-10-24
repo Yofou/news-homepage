@@ -43,7 +43,7 @@
 						its promise?
 					</p>
 
-					<button class="px-8 uppercase py-[12px] bg-red text-white-300 font-inter font-bold text-[14px] leading-[24px] tracking-[4.34px]">
+					<button class="px-8 uppercase py-[12px] bg-red hover:bg-blue transition-colors text-white-300 font-inter font-bold text-[14px] leading-[24px] tracking-[4.34px]">
 						Read more
 					</button>
 				</div>
